@@ -8,3 +8,14 @@ Can easily be edited to have form information stored in database.
 
 ## Login Page
 ![login](https://user-images.githubusercontent.com/46377366/59401908-ec5fee00-8dce-11e9-942d-cf0ad44a5418.PNG)
+
+
+## :gear: Setup your own
+```
+# Install all dependencies
+$ pip install -r requirements.txt
+
+$ export FLASK_APP = application.py 
+$ flask run
+
+```
